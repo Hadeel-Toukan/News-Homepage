@@ -77,8 +77,10 @@
 
   .links ul {
       display: none;
+      color: var(--Dark-grayish-blue);
 
   }
+
 
   .links ul li:hover,
   .links ul li:focus {
